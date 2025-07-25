@@ -39,6 +39,8 @@ This assignment helped me understand:
 - [Edit or remix this project in the Scratch editor](https://scratch.mit.edu/projects/1201670634/editor)
 
 ## How to Play
+Open the project in the Scratch editor: https://scratch.mit.edu/projects/1201670634/editor
+
 1. Open the Scratch project in the Scratch editor
 2. Click the green flag to start the game
 3. Use arrow keys or mouse to move the bowl left and right
