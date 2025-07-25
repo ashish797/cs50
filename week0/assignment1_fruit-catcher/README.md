@@ -14,8 +14,6 @@ Fruit Catcher is an interactive Scratch game where:
 
 ## Screenshot
 Here's a look at the Fruit Catcher game in action:
-
-
 <img width="1102" height="864" alt="gameplay" src="https://github.com/user-attachments/assets/8cce825b-af2c-479e-bb7f-3c480f63adc5" />
 
 ## Programming Concepts Demonstrated
@@ -38,6 +36,7 @@ This assignment helped me understand:
 ## Files
 - `fruit-catcher.sb3` - The Scratch project file (to be added)
 - `screenshots/` - Game screenshots and documentation (to be added)
+- [Edit or remix this project in the Scratch editor](https://scratch.mit.edu/projects/1201670634/editor)
 
 ## How to Play
 1. Open the Scratch project in the Scratch editor
