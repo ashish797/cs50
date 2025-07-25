@@ -36,12 +36,12 @@ This assignment helped me understand:
 ## Files
 - `fruit-catcher.sb3` - The Scratch project file (to be added)
 - `screenshots/` - Game screenshots and documentation (to be added)
-- [Edit or remix this project in the Scratch editor](https://scratch.mit.edu/projects/1201670634/editor)
+
 
 ## How to Play
-Open the project in the Scratch editor: https://scratch.mit.edu/projects/1201670634/editor
 
-1. Open the Scratch project in the Scratch editor
+
+1. Open the Scratch project in the  Scratch editor: https://scratch.mit.edu
 2. Click the green flag to start the game
 3. Use arrow keys or mouse to move the bowl left and right
 4. Catch falling fruits to increase your score
