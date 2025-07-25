@@ -15,7 +15,8 @@ Fruit Catcher is an interactive Scratch game where:
 ## Screenshot
 Here's a look at the Fruit Catcher game in action:
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+
+<img width="1102" height="864" alt="gameplay" src="https://github.com/user-attachments/assets/8cce825b-af2c-479e-bb7f-3c480f63adc5" />
 
 ## Programming Concepts Demonstrated
 - **Sprites and Movement**: Bowl character controlled by user input
